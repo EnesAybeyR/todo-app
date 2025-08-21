@@ -21,7 +21,6 @@ class AppTheme {
     visualDensity: FlexColorScheme.comfortablePlatformDensity,
     fontFamily: GoogleFonts.dekko().fontFamily,
     subThemesData: const FlexSubThemesData(
-      useMaterial3Typography: true,
       fabUseShape: true,
       interactionEffects: true,
       bottomNavigationBarElevation: 0,
